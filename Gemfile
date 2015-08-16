@@ -11,7 +11,10 @@ end
  
 group :development do
    gem 'sqlite3'
+   gem 'pry-rails'
 end
+
+gem 'faker'
 
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
